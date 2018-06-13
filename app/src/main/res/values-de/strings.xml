@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crime_title_hint">Titel des Verbrechens.</string>
+    <string name="app_name">ArbeitsVergehen</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Gelöst</string>
+    <string name="date_picker_title">Datum des Verbrechens:</string>
+    <string name="time_picker_title">Uhrzeit des Verbrechens:</string>
+    <string name="new_crime">Neues Verbrechen</string>
+    <string name="delete_crime">Löschen</string>
+    <string name="crime_suspect_text">Schuldigen aussuchen</string>
+    <string name="crime_report_text">Verbrechen versen</string>
+    <string name="crime_report">%1$s! Das Verbrechen wurde am %2$s beganen. %3$s, und %4$s</string>
+    <string name="crime_report_solved">Das Verbrechen ist gelöst</string>
+    <string name="crime_report_unsolved">Das Verbrechen ist noch nicht gelöst</string>
+    <string name="crime_report_no_suspect">Kein Verdächtiger</string>
+    <string name="crime_report_suspect">Der Verdächtige ist %s</string>
+    <string name="crime_report_subject">Verbrechen melden</string>
+    <string name="send_report">Verschicke das Verbrechen via</string>
+    <string name="crime_title_label">Titel</string>
+    <string name="crime_suspect_textview">Schuldige/r:</string>
+</resources>
